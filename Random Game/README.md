@@ -1,4 +1,4 @@
-# Assignment 2
+# Random Game
 ## Submitted by - Gursimran Singh
 
 2310997089
