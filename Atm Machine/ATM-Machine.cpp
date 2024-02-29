@@ -35,7 +35,7 @@ private:
 
     void deposit(int userId) {
         double amount;
-        cout << "Enter Amount of Deposit: ";
+        cout << "Enter Amount of Deposit: $";
         cin >> amount;
 
         // Update the balance for the given user ID
