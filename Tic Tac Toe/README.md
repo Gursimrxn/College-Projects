@@ -1,4 +1,4 @@
 # Tic-Tac-Toe
-## Submitteb by - Gursimran Singh
+## Submitted by - Gursimran Singh
 
 2310997089
